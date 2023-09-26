@@ -1,0 +1,96 @@
+body{
+    text-align: center;
+    margin: 0 auto;
+}body{
+    text-align: center;
+    margin: 0 auto;
+}
+/*body*/
+body{
+    margin: 0;
+    padding: 0;
+}
+/*secao topo*/
+.secao-topo{
+    padding-top: 50px;
+    background-image: url(capa.jpg);
+    background-size: cover;
+    text-align: center;
+    min-height: 750px;
+    background-attachment: fixed;
+}
+
+h1{
+    background-position:  center;
+    background-color:black;
+    color: aliceblue;
+    margin: 0 auto;
+    width: 390px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: bold;
+}
+
+h2{
+    background-position: center;
+    background-color: brown;
+    color: aliceblue;
+    margin: 0 auto;
+    width: 390px;
+    font-size: larger;
+}
+
+/*secao conteudo*/
+.secao-conteudo{
+    margin: 0 auto;
+    text-align: center;
+    min-height: 200px;
+    background-attachment: fixed;
+    border-image: auto;
+}
+p{
+    margin: 0 auto;
+    width: 700px;
+}
+
+span{
+    background-position: center;
+    background-color: rgb(155, 22, 22);
+    color: aliceblue;
+    text-align: center;
+    width: 700px;
+    font-size: large;
+    font-weight: bold;
+}
+
+/*secao divulgação*/
+.secao-divulgacao{
+    background-image: url(img1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 500px;
+}
+/*secao conteudo*/
+.secao-conteudo{
+    margin: 0 auto;
+    text-align: center;
+    min-height: 200px;
+    background-attachment: fixed;
+    border-image: auto;
+}
+p{
+    margin: 0 auto;
+    width: 700px;
+}
+
+span{
+    background-position: center;
+    background-color: rgb(155, 22, 22);
+    color: aliceblue;
+    text-align: center;
+    width: 700px;
+    font-size: large;
+    font-weight: bold;
+
+
+
+
